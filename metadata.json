@@ -1,0 +1,5 @@
+{
+  "name": "ChainSentryAI v2.0",
+  "description": "An AI-augmented smart-contract security auditor for Ethereum (Solidity) and Solana (Rust/Anchor), featuring a hybrid analysis engine with rigorous algorithms, static tools, and a polished user interface.",
+  "requestFramePermissions": []
+}
