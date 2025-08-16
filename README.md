@@ -2,8 +2,6 @@
 
 ChainSentryAI is a powerful, AI-augmented smart contract security auditor designed for Ethereum (Solidity) and Solana (Rust/Anchor). It combines a rigorous hybrid analysis engine with a polished, intuitive user interface to provide deep, actionable security insights.
 
-This repository contains the frontend prototype, built with React and TypeScript, which demonstrates the core user experience in a fully interactive demo mode.
-
 ## Features
 
 -   **Intuitive Dashboard**: Get a high-level overview of your security posture with key metrics and visualizations.
@@ -26,23 +24,11 @@ This repository contains the frontend prototype, built with React and TypeScript
 ### Audit in Progress
 ![Audit in Progress](screenshots/ss_audit_in_progress.png)
 
-### Audit Report Showcase
-<table>
-<tr>
-<td>
-
-**Report 1**  
+### Audit Report 1  
 ![Report 1](screenshots/ss_audit_report_1.png)
 
-</td>
-<td>
-
-**Report 2**  
+### Audit Report 2  
 ![Report 2](screenshots/ss_audit_report_2.png)
-
-</td>
-</tr>
-</table>
 
 ## Tech Stack (Frontend Prototype)
 
@@ -59,8 +45,8 @@ Follow these steps to run the frontend prototype on your local machine.
 
 1.  **Clone the Repository**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/AmayTrip29/ChainSentryAI-v2.0
+    cd ChainSentryAI-v2.0
     ```
 
 2.  **Install Dependencies**
